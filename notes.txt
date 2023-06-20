@@ -1,2 +1,10 @@
 This project is for practicing converting alreay converted HTML/CSS project into react based application.
-In this project, I made the entire html and css based code to be simpler by converting them into components and making use of react libaray.
+In this project, I made the entire html and css based code to be simpler by
+ converting them into components and making use of react libaray.
+
+While deploying because of warning, if the build is not deployed.
+
+In package.json, add this in scripts
+
+"build": "CI= react-scripts build",
+"local-build": "react-scripts build",
