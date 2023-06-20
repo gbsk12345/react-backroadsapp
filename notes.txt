@@ -1,0 +1,2 @@
+This project is for practicing converting alreay converted HTML/CSS project into react based application.
+In this project, I made the entire html and css based code to be simpler by converting them into components and making use of react libaray.
